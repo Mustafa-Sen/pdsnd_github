@@ -3,8 +3,10 @@
 
 ### Project Title
 Bike Share Project
+
 ### Description
-Describe what your project is about and what it does
+
+This is the second project for Udacity's Programming for Data Science Nano-degree Program. In this project, we used the bike ride-share data belongs to three cities: New York, Chicago, and Washington, DC. The goal was to create a terminal application that gives a set of summary statistics for each city. The project is implemented in Python.
 
 ### Files used
 Include the files used

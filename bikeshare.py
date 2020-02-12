@@ -1,5 +1,24 @@
+<<<<<<< .merge_file_s2YBqP
 #Title: Bike-Share Project
 
+||||||| .merge_file_zWEjKH
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Added Second Title to Bikeshare file
+
+>>>>>>> .merge_file_KNoBHF
 import numpy as np
 import pandas as pd
 import time
@@ -227,3 +246,5 @@ if __name__ == "__main__":
 	main()
 
     '''https://stackoverflow.com/questions/419163/what-does-if-name-main-do/419185#419185'''
+
+#Congrats
